@@ -1,0 +1,19 @@
+{
+    "id": 7,
+    "name": "Iron Man",
+    "description": "Billionaire tech-genius, son of famed weapons developer Howard Stark, and head of the multinational Stark Industries, Tony Stark is a founding member of the Avengers. Stark's life was forever changed when he was mortally wounded and captured by an enemy warlord in the Middle East. In order to save his life, Stark invented the Iron Man suit. After escaping with the help of his new invention, Stark turned his genius intellect and his incredible creation to saving the world as the Invincible Iron Man.",
+    "set": "CP01 | Core Set",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1564764716108-DAY3A5479CJPN1T6ZMXY/CP01_Crisis_Protocol_Web_IronMan.jpg?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "N/A"
+            },
+            {
+                "title": "Release",
+                "value": "Fall 2019"
+            }
+        ]
+    }
+}

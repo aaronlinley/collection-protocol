@@ -1,0 +1,19 @@
+{
+    "id": 10000,
+    "name": "NYC Terrain Pack",
+    "description": "Expand your Marvel: Crisis Protocol battlefield with the NYC Terrain Pack. This pack includes a host of highly detailed miniature terrain so that you can create the perfect urban landscape for your superpowered showdowns right in the heart of downtown.",
+    "set": "CP06 | Terrain Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1565026755677-SGB7DDI5N1QAHE8C835C/CP06_Crisis_Protocol_Web_Terrain.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$49.95"
+            },
+            {
+                "title": "Release",
+                "value": "Fall 2019"
+            }
+        ]
+    }
+}

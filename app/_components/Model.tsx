@@ -1,0 +1,105 @@
+"use client";
+
+import { useContext, useEffect, useState } from "react"
+import { ModelType } from "../_types/model";
+import { getApp } from 'firebase/app';
+import { getFirestore, doc, setDoc, getDoc } from "firebase/firestore";
+import { FirebaseAuthUserContext } from "../_context/FirebaseAuthUserContext";
+import { UserModelsDispatchContext } from "../_context/UserModelsContext";
+
+const app = getApp();
+const db = getFirestore(app);
+
+const getDocData = async (docName: string, userId: string|null) => {
+  if (userId) {
+    const docRef = doc(db, docName, userId);
+    const ownedDocSnap = await getDoc(docRef);
+
+    return ownedDocSnap.data();
+  }
+}
+
+const setDocData = async (docName: string, userId: string|null, docData: {}) => {
+  if (userId) {
+    const docRef = doc(db, docName, userId);
+    await setDoc(docRef, docData);
+  }
+}
+
+export default function Model({
+  model,
+  owned,
+  assembled,
+  primed,
+  inProgress,
+  painted,
+}: {
+  model: ModelType;
+  owned: boolean;
+  assembled: boolean;
+  primed: boolean;
+  inProgress: boolean;
+  painted: boolean;
+}) {
+  const buttonClasses = "border border-slate-700 px-2 py-1 text-sm text-slate-700 hover:bg-slate-700 hover:text-white";
+  const activeButtonClasses = "border border-green-700 px-2 py-1 bg-green-700 text-sm text-white";
+
+  const userId = useContext(FirebaseAuthUserContext);
+  const userModelsUpdater = useContext(UserModelsDispatchContext);
+
+  const [isOwned, setIsOwned] = useState<boolean>(owned);
+  useEffect(() => setIsOwned(owned), [owned]);
+  const [isAssembled, setIsAssembled] = useState<boolean>(assembled);
+  useEffect(() => setIsAssembled(assembled), [assembled]);
+  const [isPrimed, setIsPrimed] = useState<boolean>(primed);
+  useEffect(() => setIsPrimed(primed), [primed]);
+  const [isInProgress, setIsInProgress] = useState<boolean>(inProgress);
+  useEffect(() => setIsInProgress(inProgress), [inProgress]);
+  const [isPainted, setIsPainted] = useState<boolean>(painted);
+  useEffect(() => setIsPainted(painted), [painted]);
+
+  const handleOwned = () => {
+    if (userModelsUpdater.updateOwned) {
+      if (!isOwned) {
+        userModelsUpdater.updateOwned({
+          type: "added",
+          id: model.id
+        });
+        getDocData("owned", userId)
+          .then((docData) => {
+            setIsOwned(true);
+            setDocData("owned", userId, {
+              models: [...docData?.models, model.id]
+            })
+          })
+      } else {
+        userModelsUpdater.updateOwned({
+          type: "deleted",
+          id: model.id
+        })
+        getDocData("owned", userId)
+          .then((docData) => {
+            setIsOwned(false);
+            setDocData("owned", userId, {
+              models: docData?.models.filter((id: number) => id !== model.id)
+            })
+          })
+      }
+    }
+  }
+
+  return <div className="max-w-sm mx-auto bg-white shadow-lg">
+    <img src={model.image} alt={model.name} className="block" />
+    <div className="px-5 py-4">
+      <h2 className="text-lg font-bold text-slate-700 mb-2">{model.name}</h2>
+
+      <div className="flex flex-wrap gap-2">
+        <button className={`${isOwned ? activeButtonClasses : buttonClasses}`} onClick={() => handleOwned()}>Owned</button>
+        <button className={`${isAssembled ? activeButtonClasses : buttonClasses}`} onClick={() => setIsAssembled(!isAssembled)}>Assembled</button>
+        <button className={`${isPrimed ? activeButtonClasses : buttonClasses}`} onClick={() => setIsPrimed(!isPrimed)}>Primed</button>
+        <button className={`${isInProgress ? activeButtonClasses : buttonClasses}`} onClick={() => setIsInProgress(!isInProgress)}>In Progress</button>
+        <button className={`${isPainted ? activeButtonClasses : buttonClasses}`} onClick={() => setIsPainted(!isPainted)}>Painted</button>
+      </div>
+    </div>
+  </div>
+}

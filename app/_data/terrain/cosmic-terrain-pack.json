@@ -1,0 +1,19 @@
+{
+    "id": 10002,
+    "name": "Cosmic Terrain",
+    "description": "Take your Marvel: Crisis Protocol battles to new worlds with the Cosmic Terrain Pack. This pack includes a host of highly detailed miniatures terrain so that you can create the perfect cosmic landscape for your superpowered showdowns across the galactic worlds of the Marvel Universe.",
+    "set": "CP22 | Terrain Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1589836966705-K9YC7KJ6IQMR5W3E6PE6/CP22_CrisisProtocol_CosmicTerrrainPack_BOX_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$69.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2020"
+            }
+        ]
+    }
+}

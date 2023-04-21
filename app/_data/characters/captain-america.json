@@ -1,0 +1,19 @@
+{
+    "id": 3,
+    "name": "Captain America",
+    "description": "A poor orphan from Brooklyn, Steve Rogers enlisted in the U.S. Army to help fight the Axis powers during World War II. Though initially rejected due to his small size and underdeveloped physique, Rogers was given a second chance to serve his country as part of Project Rebirth. Emerging from the experimental procedure with amazing strength and agility and equipped with a nearly indestructible shield forged of a vibranium-steel alloy, Steve Rogers became a renowned defender of justice as Captain America.",
+    "set": "CP01 | Core Set",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1574364607982-9JWA17TWCO5KK6NLMQO3/CP01_Crisis_Protocol_Web_CapAmerica.jpg?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "N/A"
+            },
+            {
+                "title": "Release",
+                "value": "Fall 2019"
+            }
+        ]
+    }
+}
