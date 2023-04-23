@@ -1,5 +1,4 @@
 import './globals.css'
-import 'firebaseui/dist/firebaseui.css'
 import { Inter } from 'next/font/google'
 
 import Providers from './providers'
