@@ -6,6 +6,7 @@ import { getApp } from 'firebase/app';
 import { getFirestore, doc, setDoc, getDoc } from "firebase/firestore";
 import { FirebaseAuthUserContext } from "../_context/FirebaseAuthUserContext";
 import { UserModelsDispatchContext } from "../_context/UserModelsContext";
+import Image from "next/image";
 
 const app = getApp();
 const db = getFirestore(app);
@@ -89,7 +90,7 @@ export default function Model({
   }
 
   return <div className="max-w-sm mx-auto bg-white shadow-lg">
-    <img src={model.image} alt={model.name} className="block" />
+    <Image src={model.image} alt={model.name} className="block" width={500} height={500} />
     <div className="px-5 py-4">
       <h2 className="text-lg font-bold text-slate-700 mb-2">{model.name}</h2>
 

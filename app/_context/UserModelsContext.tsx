@@ -85,7 +85,7 @@ export function UserModelsContextProvider({
     getInitialDataForDoc("primed", updatePrimed);
     getInitialDataForDoc("in-progress", updateInProgress);
     getInitialDataForDoc("painted", updateOwned);
-  }, []);
+  }, [getInitialDataForDoc]);
 
   return <UserModelsContext.Provider value={{owned, assembled, primed, inProgress, painted}}>
     <UserModelsDispatchContext.Provider value={modelsUpdater}>
