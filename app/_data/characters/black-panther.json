@@ -1,0 +1,19 @@
+{
+    "id": 13,
+    "name": "Black Panther",
+    "description": "King T'Challa is the leader of Wakanda, a technologically advanced nation that houses rich deposits of the precious metal vibranium. As Black Panther, T'Challa connects to the panther god Bast by eating a special heart-shaped herb, thereby gaining superhuman abilities. T'Challa uses these powers to protect Wakanda and the world from those who would seek it harm.",
+    "set": "CP07 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1568651958446-7JLN1929J0LLSS74ZFEE/CP07_Crisis_Protocol_Web_Blackpanther.jpg?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$34.95"
+            },
+            {
+                "title": "Release",
+                "value": "Fall 2019"
+            }
+        ]
+    }
+}

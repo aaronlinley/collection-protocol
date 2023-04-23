@@ -1,0 +1,19 @@
+{
+    "id": 27,
+    "name": "Proxima Midnight",
+    "description": "Devoted members of Thanos' Black Order, the husband and wife team of Corvus Glaive and Proxima Midnight have terrorized the galaxy in service to their dark master.\nProxima Midnight takes great pleasure in testing herself in battle, relying on her inhuman speed, strength, and agility and her spear, which houses a star trapped in a quantum singularity.",
+    "set": "CP15 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1570547912832-BGUFXYDMUXU0NEDI7TZN/CP15_Crisis_Protocol_Web_Proxima-Midnight.jpg?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "2020"
+            }
+        ]
+    }
+}

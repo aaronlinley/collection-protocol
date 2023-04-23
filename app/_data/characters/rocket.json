@@ -1,0 +1,19 @@
+{
+    "id": 30,
+    "name": "Rocket",
+    "description": "The result of genetic experiments and cybernetic enhancements, the walking, talking, fighting creature known as Rocket is a force to be reckoned with. A gifted pilot, deadly marksman, and cunning explosives expert, Rocket fights with a zeal for unleashing carnage upon those who threaten his friends and fellow Guardians of the Galaxy.",
+    "set": "CP17 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1582663994286-QE9W0YU9UIZ8JIBASXE8/CP17_Crisis_Protocol_Web_Rocket.jpg?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "2020"
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": 32,
+    "name": "Starlord",
+    "description": "Peter Quill was originally born on Earth, but dreamed of exploring the vast reaches of space.After a chance meeting with a celestial being on one of his first trips off world, Quill chose to venture out on his own to find adventure among the stars as the inter galactic hero Star-Lord. An expert marksman and a clever tactician, Star-Lord leads the motley group of heroes known as the Guardians of the Galaxy against any and all threats across the cosmos.",
+    "set": "CP18 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1582664176674-N1L3VKAXBSJB39VFPMWD/CP18_Crisis_Protocol_Web_Starlord.jpg?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$34.95"
+            },
+            {
+                "title": "Release",
+                "value": "2020"
+            }
+        ]
+    }
+}

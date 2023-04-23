@@ -1,0 +1,19 @@
+{
+    "id": 26,
+    "name": "Corvus Glaive",
+    "description": "Devoted members of Thanos' Black Order, the husband and wife team of Corvus Glaive and Proxima Midnight have terrorized the galaxy in service to their dark master.\nCunning and utterly ruthless, Corvus Glaive serves as the general of the Black Order and Thanos' right hand. Armed with his signature glaive, which grants him the power of immortality and can slice through any known substance with ease, Corvus is rightly feared by all.",
+    "set": "CP15 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1582664263223-9M19TXGX2KYMJ592ZFM4/CP15_Crisis_Protocol_Web_CorvusGlaive.jpg?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "2020"
+            }
+        ]
+    }
+}

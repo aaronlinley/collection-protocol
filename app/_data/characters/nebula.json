@@ -1,0 +1,19 @@
+{
+    "id": 29,
+    "name": "Nebula",
+    "description": "A pirate and mercenary,Nebula was raised along side Gamora as Thanos' adopted daughter. Fueled by jealousy of her sister, Nebula has become feared across several star systems for her ruthless nature and willingness to work with anyone to accomplish her goals.",
+    "set": "CP16 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1570563313030-UV52AYH57ADVNSP2T8WD/CP16_Crisis_Protocol_Web_Nebula.jpg?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "2020"
+            }
+        ]
+    }
+}
