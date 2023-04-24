@@ -1,6 +1,6 @@
 "use client";
 
-import { ReactNode, createContext, useReducer, useState, useContext, useEffect, Dispatch } from "react";
+import { ReactNode, createContext, useReducer, useState, useContext, useEffect, Dispatch, useCallback } from "react";
 import { getApp } from 'firebase/app';
 import { getFirestore, getDoc, doc, setDoc } from "firebase/firestore";
 import { FirebaseAuthUserContext } from "./FirebaseAuthUserContext";
@@ -65,7 +65,7 @@ export function UserModelsContextProvider({
     updatePainted
   })
 
-  const getInitialDataForDoc = (docName: string, update: Dispatch<{type: string; id: number;}>) => {
+  const getInitialDataForDoc: (docName: string, update: Dispatch<{type: string; id: number;}>) => void = useCallback((docName: string, update: Dispatch<{type: string; id: number;}>) => {
     getDocData(docName, userId)
       .then((docData) => {
         if (docData?.models?.length > 0) {
@@ -77,7 +77,7 @@ export function UserModelsContextProvider({
           })
         }
       });
-  }
+  }, [userId]);
 
   useEffect(() => {
     getInitialDataForDoc("owned", updateOwned);

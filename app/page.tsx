@@ -2,8 +2,8 @@ import CollectionProtocol from './_components/CollectionProtocol';
 import { ModelType } from './_types/model';
 
 export default async function Home() {
-  const charactersResponse = await fetch("http://localhost:3000/api/characters");
-  const terrainResponse = await fetch("http://localhost:3000/api/terrain");
+  const charactersResponse = await fetch(`${process.env.NEXT_PUBLIC_DOMAIN}/api/characters`);
+  const terrainResponse = await fetch(`${process.env.NEXT_PUBLIC_DOMAIN}/api/terrain`);
 
   const characters: ModelType[] = await charactersResponse.json();
   const terrain: ModelType[] = await terrainResponse.json();
