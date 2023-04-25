@@ -1,0 +1,19 @@
+{
+    "id": 38,
+    "name": "Doctor Strange",
+    "description": "Once a brilliant surgeon, Doctor Stephen Strange was set upon a different path when he lost the use of his hands in an accident. Seeking mystical healing, Strange instead discovered a new destiny as a master of the mystic arts. As Earth's Sorcerer Supreme, Doctor Strange wields arcane spells and mystical artifacts such as the Eye of Agamotto and Cloak of Levitation to defend the planet against interdimensional threats.",
+    "set": "CP23 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1588978821970-M9PCMBIB6W69YAUOPG58/CP23_CrisisProtocol_DoctorStrange_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2020"
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": 37,
+    "name": "Green Goblin",
+    "description": "When industrialist Norman Osborne injected himself with his experimental Goblin Formula, it granted him incredible strength, speed, and resilience but fractured his mind, turning him into the cackling, psychotic terror known as the Green Goblin. Obsessed with power, the Green Goblin rains chaos and destruction upon any who dare oppose his plans for domination, and he holds a very personal vendetta against Spider-Man, who has served as a constant thorn in his side.\nThanks to his access to the impressive weapons technology of Oscorp, the Green Goblin goes to battle outfitted with an array of deadly high-tech gear. Ruthless and unremorseful, the Green Goblin will never stop until he stands supreme.",
+    "set": "CP21 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1589561469838-B67S1G7HJA27H4968KE3/CP21_CrisisProtocol_GreenGoblin_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$24.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2020"
+            }
+        ]
+    }
+}

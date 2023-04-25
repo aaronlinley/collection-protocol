@@ -1,0 +1,19 @@
+{
+    "id": 42,
+    "name": "Thanos",
+    "description": "The Mad Titan Thanos is one of the most powerful beings to ever live. Obsessed with order and fate, Thanos works tirelessly to bring all living things to heel and remake the universe as he believes it should be. Despite his incalculable strength, to achieve his goals Thanos has devoted much of his life to acquiring the six Infinity Gems, artifacts of limitless cosmic power that, when combined, grant the bearer the power to control all of existence.",
+    "set": "CP25 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1588979287392-1Y1DUDZV4SH652QZ03IF/CP25_CrisisProtocol_Thanos-All_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$64.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2020"
+            }
+        ]
+    }
+}

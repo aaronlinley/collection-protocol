@@ -1,0 +1,19 @@
+{
+    "id": 39,
+    "name": "Wong",
+    "description": "Doctor Strange is aided by his faithful companion and friend Wong. Descended from a line of ancient warrior-monks, Wong is a potent sorcerer in his own right. Together with Doctor Strange he uses his power to aide and defend his allies and the world from harm.",
+    "set": "CP23 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1588978828916-CNSP64JXLL266OIXZADQ/CP23_CrisisProtocol_Wong_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2020"
+            }
+        ]
+    }
+}
