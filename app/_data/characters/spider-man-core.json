@@ -1,6 +1,7 @@
 {
     "id": 9,
-    "name": "Spider-Man",
+    "name": "Spider-Man (Core)",
+    "slug": "spider-man-core",
     "description": "When teenager Peter Parker was bitten by a radioactive spider while on a school field trip, he was granted superhuman strength, the ability to sling webs and crawl up walls, and Spider- Sense, an almost preternatural ability to perceive and avoid impending danger. Realizing that with great power must come great responsibility, Parker took on the mantle of Spider-Man and has fought to defend the people of New York City from any danger they might face, no matter how big or small.",
     "set": "CP01 | Core Set",
     "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1568651277525-WA0EDUZULQVZJI1LM4ZW/CP01_Crisis_Protocol_Web_Spiderman.jpg?format=1000w",

@@ -1,10 +1,9 @@
 import {readdirSync, readFileSync} from 'fs';
 import {extname, join} from 'path';
+import { ModelType } from '../_types/model';
 
 export function getAllJsonFromDataDirectory(dir: string) {
-  let response: {
-    id: number
-  }[] = [];
+  let response: ModelType[] = [];
   const jsonsInDir = readdirSync(`./app/_data/${dir}`).filter(file => extname(file) === '.json');
 
   jsonsInDir.forEach(file => {

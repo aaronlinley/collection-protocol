@@ -1,8 +1,15 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
   experimental: {
     appDir: true,
+  },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'images.squarespace-cdn.com'
+      },
+    ],
   },
   webpack: function (config) {
     config.module.rules.push(

@@ -1,6 +1,7 @@
 {
     "id": 10,
-    "name": "Ultron",
+    "name": "Ultron (Core)",
+    "slug": "ultron-core",
     "description": "Originally created by Hank Pym, one of the founding Avengers, to be a force for good, the robot Ultron went rogue. Coming to the conclusion that humankind was deeply flawed, Ultron became obsessed with conquering and annihilating all of humanity. As a computer A.I., Ultron is able to constantly replace his metallic body and maintains multiple backups of his systems hidden all over the world, making him nearly impossible to truly defeat. Thanks to his ability to upgrade his physical form, Ultron's capabilities vary from body to body, but in all his forms Ultron possesses superhuman strength and durability and the power of flight. Each body boasts a host of weapons including deadly energy beams and close combat enhancements.",
     "set": "CP01 | Core Set",
     "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1565109459412-0FN1QK99LH6K0U9ITFIB/CP01_Crisis_Protocol_Web_Ultron.jpg?format=1000w",
