@@ -1,12 +1,10 @@
 import CollectionProtocol from './_components/CollectionProtocol';
 import { ModelType } from './_types/model';
+import { getAllJsonFromDataDirectory } from './_helpers/json';
 
 export default async function Home() {
-  const charactersResponse = await fetch(`${process.env.NEXT_PUBLIC_DOMAIN}/api/characters`);
-  const terrainResponse = await fetch(`${process.env.NEXT_PUBLIC_DOMAIN}/api/terrain`);
-
-  const characters: ModelType[] = await charactersResponse.json();
-  const terrain: ModelType[] = await terrainResponse.json();
+  const characters: ModelType[] = getAllJsonFromDataDirectory('characters');
+  const terrain: ModelType[] = getAllJsonFromDataDirectory('terrain');
   return (
     <main className="flex min-h-screen p-24">
       <div className="container mx-auto">
