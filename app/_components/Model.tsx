@@ -89,6 +89,126 @@ export default function Model({
     }
   }
 
+  const handleAssembled = () => {
+    if (userModelsUpdater.updateAssembled) {
+      if (!isAssembled) {
+        userModelsUpdater.updateAssembled({
+          type: "added",
+          id: model.id
+        });
+        getDocData("assembled", userId)
+          .then((docData) => {
+            setIsAssembled(true);
+            setDocData("assembled", userId, {
+              models: [...docData?.models, model.id]
+            })
+          })
+      } else {
+        userModelsUpdater.updateAssembled({
+          type: "deleted",
+          id: model.id
+        })
+        getDocData("assembled", userId)
+          .then((docData) => {
+            setIsAssembled(false);
+            setDocData("assembled", userId, {
+              models: docData?.models.filter((id: number) => id !== model.id)
+            })
+          })
+      }
+    }
+  }
+
+  const handlePrimed = () => {
+    if (userModelsUpdater.updatePrimed) {
+      if (!isPrimed) {
+        userModelsUpdater.updatePrimed({
+          type: "added",
+          id: model.id
+        });
+        getDocData("primed", userId)
+          .then((docData) => {
+            setIsPrimed(true);
+            setDocData("primed", userId, {
+              models: [...docData?.models, model.id]
+            })
+          })
+      } else {
+        userModelsUpdater.updatePrimed({
+          type: "deleted",
+          id: model.id
+        })
+        getDocData("primed", userId)
+          .then((docData) => {
+            setIsPrimed(false);
+            setDocData("primed", userId, {
+              models: docData?.models.filter((id: number) => id !== model.id)
+            })
+          })
+      }
+    }
+  }
+
+  const handleInProgress = () => {
+    if (userModelsUpdater.updateInProgress) {
+      if (!isInProgress) {
+        userModelsUpdater.updateInProgress({
+          type: "added",
+          id: model.id
+        });
+        getDocData("in-progress", userId)
+          .then((docData) => {
+            setIsInProgress(true);
+            setDocData("in-progress", userId, {
+              models: [...docData?.models, model.id]
+            })
+          })
+      } else {
+        userModelsUpdater.updateInProgress({
+          type: "deleted",
+          id: model.id
+        })
+        getDocData("in-progress", userId)
+          .then((docData) => {
+            setIsInProgress(false);
+            setDocData("in-progress", userId, {
+              models: docData?.models.filter((id: number) => id !== model.id)
+            })
+          })
+      }
+    }
+  }
+
+  const handlePainted = () => {
+    if (userModelsUpdater.updatePainted) {
+      if (!isPainted) {
+        userModelsUpdater.updatePainted({
+          type: "added",
+          id: model.id
+        });
+        getDocData("painted", userId)
+          .then((docData) => {
+            setIsPainted(true);
+            setDocData("painted", userId, {
+              models: [...docData?.models, model.id]
+            })
+          })
+      } else {
+        userModelsUpdater.updatePainted({
+          type: "deleted",
+          id: model.id
+        })
+        getDocData("painted", userId)
+          .then((docData) => {
+            setIsPainted(false);
+            setDocData("painted", userId, {
+              models: docData?.models.filter((id: number) => id !== model.id)
+            })
+          })
+      }
+    }
+  }
+
   return <div className="max-w-sm mx-auto bg-white shadow-lg">
     <Image src={model.image} alt={model.name} className="block" width={500} height={500} />
     <div className="px-5 py-4">
@@ -96,10 +216,10 @@ export default function Model({
 
       <div className="flex flex-wrap gap-2">
         <button className={`${isOwned ? activeButtonClasses : buttonClasses}`} onClick={() => handleOwned()}>Owned</button>
-        <button className={`${isAssembled ? activeButtonClasses : buttonClasses}`} onClick={() => setIsAssembled(!isAssembled)}>Assembled</button>
-        <button className={`${isPrimed ? activeButtonClasses : buttonClasses}`} onClick={() => setIsPrimed(!isPrimed)}>Primed</button>
-        <button className={`${isInProgress ? activeButtonClasses : buttonClasses}`} onClick={() => setIsInProgress(!isInProgress)}>In Progress</button>
-        <button className={`${isPainted ? activeButtonClasses : buttonClasses}`} onClick={() => setIsPainted(!isPainted)}>Painted</button>
+        <button className={`${isAssembled ? activeButtonClasses : buttonClasses}`} onClick={() => handleAssembled()}>Assembled</button>
+        <button className={`${isPrimed ? activeButtonClasses : buttonClasses}`} onClick={() => handlePrimed()}>Primed</button>
+        <button className={`${isInProgress ? activeButtonClasses : buttonClasses}`} onClick={() => handleInProgress()}>In Progress</button>
+        <button className={`${isPainted ? activeButtonClasses : buttonClasses}`} onClick={() => handlePainted()}>Painted</button>
       </div>
     </div>
   </div>

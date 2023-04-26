@@ -84,7 +84,7 @@ export function UserModelsContextProvider({
     getInitialDataForDoc("assembled", updateAssembled);
     getInitialDataForDoc("primed", updatePrimed);
     getInitialDataForDoc("in-progress", updateInProgress);
-    getInitialDataForDoc("painted", updateOwned);
+    getInitialDataForDoc("painted", updatePainted);
   }, [getInitialDataForDoc]);
 
   return <UserModelsContext.Provider value={{owned, assembled, primed, inProgress, painted}}>
