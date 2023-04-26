@@ -1,0 +1,20 @@
+{
+    "id": 120,
+    "name": "Crimson Dynamo",
+    "slug": "crimson-dynamo",
+    "description": "Dimitri Bukharin is the fifth man to bear the title of Crimson Dynamo and the current leader of the Winter Guard. Following the failure of his predecessor Yuri Petrovich, Bukharin was given the suit of power armor and code name to fight at the behest of his superiors in the Russian military. A man of mystery, little is known about this Crimson Dynamo's past. He has shown himself to be a loyal and dedicated soldier for the Russian people, even when his handlers don't show him the same loyalty.",
+    "set": "CP88 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1656101615887-AG39DVXFTFLMAQ8U7DQD/CP88_CrisisProtocol_Web_CrimsonDynamo_Mini.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

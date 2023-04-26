@@ -1,0 +1,20 @@
+{
+    "id": 76,
+    "name": "Blade",
+    "slug": "blade",
+    "description": "Born while the vampire Deacon Frost fed on his mother, Eric Brooks had a portion of the vampiric condition passed on to him. He uses the abilities of this infection to destroy vampires as Blade, a super-powered hunter who possesses the strengths of vampire kind while having none of their weaknesses.",
+    "set": "CP48 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1624304682442-0M5PGJJYCI5LL1RWWF97/CP48_CrisisProtocol_Blade_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2021"
+            }
+        ]
+    }
+}

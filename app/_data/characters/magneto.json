@@ -1,0 +1,20 @@
+{
+    "id": 67,
+    "name": "Magneto",
+    "slug": "magneto",
+    "description": "Max Eisenhardt, the man who would become Magneto, faced unimaginable discrimination and evil during the Third Reich's rise to power in World War II. He survived, thanks in part to the manifestation of his mutant power to control magnetic fields. Following the war, he resolved that such a fate would never befall mutant kind. An uncompromising freedom fighter for his fellow mutants, his extreme beliefs for mutant superiority drove a wedge between Magneto and his close friend, Professor Xavier. Magneto's vision for mutant kind caused him to form the Brotherhood of Mutants, who fight for mutant supremacy.",
+    "set": "CP42 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1602786246887-I944P4DBZLM3EY04JJRD/CP42_Magneto_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$44.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": 78,
+    "name": "Luke Cage",
+    "slug": "luke-cage",
+    "description": "Jailed for a crime he didn't commit, Harlem-born Carl Lucas agreed to undergo an experimental treatment designed to replicate the effects of the Super-Soldier serum that produced Captain America. As a result of the treatment, Carl's skin became unbreakable, and his strength was amplified to superhuman levels. Now bulletproof and able to punch through four-inch-thick steel, Carl took on the name Luke Cage and became a hero dedicated to keeping his streets safe alongside his partner and friend Iron Fist.",
+    "set": "CP49 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1611682792136-S8ZOX05ZEEAKG6CY0U4T/CP49_CrisisProtocol_Luke+Cage_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2021"
+            }
+        ]
+    }
+}

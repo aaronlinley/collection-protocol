@@ -1,0 +1,20 @@
+{
+    "id": 50,
+    "name": "Bullseye",
+    "slug": "bullseye",
+    "description": "A psychopathic assassin, Bullseye is one of the deadliest men in the world. Beyond his superb skills in hand-to-hand combat, Bullseye was born with the innate ability to throw any projectile with lethal force and accuracy. As a costumed criminal, Bullseye has crossed paths with many of the world's greatest heroes, but he holds a special hatred for his nemesis, Daredevil, stopping at nothing to put him down once and for all.",
+    "set": "CP30 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1599674631765-ZO16TPNWEDX5EG74BWOJ/CP30_CrisisProtocol_Bullseye_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": 122,
+    "name": "Ursa Major",
+    "slug": "ursa-major",
+    "description": "Mikhail Ursus is Ursa Major, who possesses the ability to transform into an enormous humanoid brown bear. His government may have initially made Mikhail a target, but he was eventually enrolled in a special agent program by the nefarious Professor Phobos. He was trained as the agent Ursa Major and fought for the government before parting ways with his former masters. No matter what team he's affiliated with, Ursa Major fights for the Russian people with honor and a love for his country.",
+    "set": "CP89 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1655995698406-VU14BUCJ5R9IZM6UU1TN/CP89_CrisisProtocol_Web_UrsaMajor_Mini.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

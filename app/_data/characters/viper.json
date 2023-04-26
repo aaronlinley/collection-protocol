@@ -1,0 +1,20 @@
+{
+    "id": 96,
+    "name": "Viper",
+    "slug": "viper",
+    "description": "As a child, Ophelia Sarkissian was taken by Hydra and raised by Daniel Whitehall, the mysterious agent known as Kraken. For over two decades, she trained to become one of the organization's most proficient soldiers. Later in life, she abandoned Hydra to become the leader of the Serpent Squad mercenaries, where she used her peak physical conditioning, cunning, and ruthlessness to secure her place as a deadly viper in the global underworld.",
+    "set": "CP61 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1611260773122-EHMECGOW2PYPX5BBX6ET/CP61_CrisisProtocol_Viper_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2021"
+            }
+        ]
+    }
+}

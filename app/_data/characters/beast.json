@@ -1,0 +1,20 @@
+{
+    "id": 69,
+    "name": "Beast",
+    "slug": "beast",
+    "description": "Dr. Hank McCoy is a founding member of the X-Men who possesses enhanced agility and genius-level intellect. McCoy has undergone progressive mutations that have increasingly given him a feral, bestial appearance, including fangs, claws, and superhuman senses. Though his visage is animalistic,Beast retains his intelligence and is a global authority on matters of mutant kind, a top-tier geneticist, and a fierce advocate for mutant rights.",
+    "set": "CP43 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1602787180480-2XD0X8PZMP14GCR3MKMA/CP43_Beast_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

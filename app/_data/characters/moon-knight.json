@@ -1,0 +1,20 @@
+{
+    "id": 77,
+    "name": "Moon Knight",
+    "slug": "moon-knight",
+    "description": "Marc Spector is Moon Knight, the “Fist of Khonshu.” On an archaeological expedition in Egypt, Spector uncovered a temple to the ancient Moon God, Khonshu. Betrayed and left for dead, the god gave Spector a second chance at life as Moon Knight, a supernatural crime-fighter with powers tied into the cycles of the moon.",
+    "set": "CP48 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1624476415491-L2ITGUULXZF9LQH5A281/CP48_CrisisProtocol_Moonknight_Web_New.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2021"
+            }
+        ]
+    }
+}

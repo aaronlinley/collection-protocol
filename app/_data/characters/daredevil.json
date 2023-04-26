@@ -1,0 +1,20 @@
+{
+    "id": 49,
+    "name": "Daredevil",
+    "slug": "daredevil",
+    "description": "As a boy, Matt Murdock was blinded in an accident involving radioactive chemicals. Though he could no longer see, the chemicals heightened Murdock's other senses and imbued him with an incredible 360-degree radar sense. With years of martial arts training under the ninja master Stick and fueled by a relentless pursuit of justice, Matt Murdock protects the innocent of Hell's Kitchen as Daredevil, the Man Without Fear!",
+    "set": "CP30 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1599674616749-T7CKDAWB1NNE90UUKZSY/CP30_CrisisProtocol_DareDevil_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

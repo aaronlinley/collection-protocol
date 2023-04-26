@@ -1,0 +1,20 @@
+{
+    "id": 126,
+    "name": "Skurge",
+    "slug": "skurge",
+    "description": "Skurge the Executioner is a legendary Asgardian warrior. He is known at once for feats of valor and foolishness, having over his many years both defended and assailed Asgard's gates. Once his mind is set to a task, Skurge's will is as steel as the head of his axe.",
+    "set": "CP102 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1652104441537-GU8PAZV334Q13STU9JF2/CP102_CrisisProtocol_Web_Mini2.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

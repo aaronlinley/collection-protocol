@@ -1,0 +1,20 @@
+{
+    "id": 91,
+    "name": "Lizard",
+    "slug": "lizard",
+    "description": "Doctor Curtis Connors was once a genetic biologist and mentor to Peter Parker. He sought a way to use reptile DNA to regrow lost limbs, like his own missing arm. After testing his experimental serum on himself, Connors transformed into the inhuman reptilian creature, Lizard.",
+    "set": "CP58 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1617982637934-OIUJ4091EESKEVB6BHAG/CP58_CrisisProtocol_Lizard_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2021"
+            }
+        ]
+    }
+}

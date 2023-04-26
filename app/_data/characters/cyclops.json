@@ -1,0 +1,20 @@
+{
+    "id": 65,
+    "name": "Cyclops",
+    "slug": "cyclops",
+    "description": "Scott Summers is Cyclops, the first member of the mutant team theX-Men. Summers’ mutant power causes him to produce beams of optic force from his eyes. Unable to control these beams, Cyclops must wear protective ruby lenses to shield others from his mutant ability. As the field leader of theX-Men, Cyclops is a master tactician and skilled combatant who never stops fighting for equality between mutants and human kind.",
+    "set": "CP41 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1602785215707-PA5YDLVSC20HWT6S9SKB/Cp41_Cyclops_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

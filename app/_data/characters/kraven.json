@@ -1,0 +1,20 @@
+{
+    "id": 92,
+    "name": "Kraven",
+    "slug": "kraven",
+    "description": "Sergei Kravinoff is Kraven the Hunter, a fanatical big-game hunter who seeks to claim Spider-Man as a prize to demonstrate he is the foremost hunter in the world. From the hidden jungles of the Savage Land to the urban landscape of New York City, Kraven will not relent until he has bagged his trophy.",
+    "set": "CP58 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1617982641520-MTJ21PH00F6CW98O9RX4/CP58_CrisisProtocol_Kraven_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2021"
+            }
+        ]
+    }
+}

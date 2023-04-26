@@ -1,0 +1,20 @@
+{
+    "id": 63,
+    "name": "Wolverine",
+    "slug": "wolverine",
+    "description": "Wolverine is a man whose past is shrouded in mystery. His mutant power of enhanced regeneration not only protects him from harm but has dramatically increased his life span. It also made him the ideal subject for the Weapon X project, which bonded indestructible metal to his skeleton and claws while robbing him of his memory. As a member of the X-Men, Wolverine is a gruff and vicious member of the team who often clashes with the team's leader, Cyclops.",
+    "set": "CP40 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1602782412707-RGWKU67YZZVDMAWS6T8U/CP40_Wolverine_web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

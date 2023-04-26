@@ -1,0 +1,20 @@
+{
+    "id": 101,
+    "name": "Mordo",
+    "slug": "mordo",
+    "description": "Baron Karl Mordo learned his impressive magical ability by training with the Ancient One. He has long been one of Doctor Strange's greatest foes. Baron Mordo has consorted with darker powers like Dormammu and the demon Mephisto in his efforts to destroy the Ancient One and the Sorcerer Supreme.",
+    "set": "CP64 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1625584481615-S310JDP3QQ04WPDTWZ26/CP64_CrisisProtocol_Mordo_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2021"
+            }
+        ]
+    }
+}

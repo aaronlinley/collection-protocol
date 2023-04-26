@@ -1,0 +1,20 @@
+{
+    "id": 58,
+    "name": "The Amazing Spider-Man",
+    "slug": "amazing-spider-man",
+    "description": "In the years since being bitten by a radioactive spider, Peter Parker's life has been one constant adventure after another. From battling super-powered foes of every size and description to saving New York City more times than he can count, Peter has seen it all. Still, he continues to put everything on the line using his experience, his long list of friends, and sometimes even his longer list of enemies to protect the innocent. Peter Parker is the Amazing Spider-Man, and he wouldn't have it any other way.",
+    "set": "CP37 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1615992876804-9A5CUARJZ6JRF2SGZKPV/CP37_CrisisProtocol_TheAmazingSpiderman_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2021"
+            }
+        ]
+    }
+}

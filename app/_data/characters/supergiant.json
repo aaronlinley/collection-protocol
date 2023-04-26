@@ -1,0 +1,20 @@
+{
+    "id": 119,
+    "name": "Supergiant",
+    "slug": "supergiant",
+    "description": "Supergiant is an omnipath and telepathic parasite. A ruthless and cunning member of the Black Order, she uses these abilities to devour the intellects of those who would oppose her. After each brutal attack her incorporeal form assures a swift escape, and Supergiant absconds to plague the galaxy anew.",
+    "set": "CP81 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1650894266674-2QUL7POLZV23HL08KDZV/CP81_CrisisProtocol_SuperGiant_Mini.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2022"
+            }
+        ]
+    }
+}

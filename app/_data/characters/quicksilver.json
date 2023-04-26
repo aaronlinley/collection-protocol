@@ -1,0 +1,20 @@
+{
+    "id": 99,
+    "name": "Quicksilver",
+    "slug": "quicksilver",
+    "description": "Pietro can move and think at unfathomable speeds, moving faster than the speed of thought. Quicksilver's incredible ability makes him one of the fastest mutants alive but has condemned him to live in a world of slow-moving statues incapable of matching his pace. Arrogant to a fault, Quicksilver will stop at nothing to prove himself a worthy successor of his father.",
+    "set": "CP63 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1615923057981-86DGTW7Q5BUKEXZF2SDV/CP63_CrisisProtocol_Quicksilver_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2021"
+            }
+        ]
+    }
+}

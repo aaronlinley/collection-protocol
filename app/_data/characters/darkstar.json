@@ -1,0 +1,20 @@
+{
+    "id": 121,
+    "name": "Darkstar",
+    "slug": "darkstar",
+    "description": "Laynia Petrovna is Darkstar, a former member of a super team assembled to reclaim the elusive Black Widow. Darkstar defected to the United States where she has fought as part of the Black Widow's elite strike force. Born with the power to access the energy of the Darkforce dimension, she can wield in numerous ways. Shaping it into constructs of pure dark energy or unleashing it in powerful blasts, Darkstar is not to be underestimated.",
+    "set": "CP88 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1656101616645-UQIF8W08E8Y11YAO2R3V/CP88_CrisisProtocol_Web_Darkstar_Mini.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

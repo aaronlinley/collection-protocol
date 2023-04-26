@@ -1,0 +1,20 @@
+{
+    "id": 70,
+    "name": "Mystique",
+    "slug": "mystique",
+    "description": "Mystique is a peerless shapeshifter, able to alter her physical appearance and voice to match another person's as a perfect mimic. Little is known about her early life, though she has claimed to be over 100 years old. During her life, she has assassinated several significant figures involved in mutant affairs, imitated high-ranking generals and politicians, and clashed with the X-Men on numerous occasions.",
+    "set": "CP43 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1602787193133-893TKJO9ZPKYR2SC91PF/CP43_Mystique_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

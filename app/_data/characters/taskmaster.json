@@ -1,0 +1,20 @@
+{
+    "id": 51,
+    "name": "Taskmaster",
+    "slug": "taskmaster",
+    "description": "When Anthony Masters injected himself with an experimental serum designed to unlock the brain's procedural memory potential, he gained the ability to instantly replicate the physical movement of anyone he saw. Using these photographic reflexes, Masters took on the name Taskmaster and became a mercenary, selling his skills to the highest bidder. Thanks to his Mnemonic Memory, Taskmaster is able to memorize, utilize, and predict the attacks of any opponent, turning their own physical abilities against them.",
+    "set": "CP32 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1589565198913-5J5YPJ65EAA97B2DTL5R/CP32_CrisisProtocol_Taskmaser_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": 115,
+    "name": "Elektra",
+    "slug": "elektra",
+    "description": "Assassin and mercenary Elektra Natchios was trained by the ancient cult of ninjas known as The Hand to be a supreme martial artist and master of stealth. She is willing to work for anyone who can afford her matchless skills, bringing a swift end to those who dare stand in her way. While she sometimes joins forces with Daredevil and other heroes, she is ultimately a lone warrior who follows her own path among the shadows.",
+    "set": "CP79 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1641832134937-T4H2VDNQ4ZE8S5BF1YFN/CP79en_CrisisProtocol_Web_Elektra.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$54.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2022"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": 98,
+    "name": "Scarlett Witch",
+    "slug": "scarlett-witch",
+    "description": "The mutant twins Wanda and Pietro Maximoff are powerful beings who have fought on both sides of the mutant divide, as founding members of the Brotherhood of Mutants as well as members of the Avengers and X-Men. The Scarlet Witch's ability to manipulate reality through chaos magic makes her a potent force for change, able to cause unlikely and random events to occur.",
+    "set": "CP63 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1615923051072-VBV1PAH0T6IUFMZ4VF89/CP63_CrisisProtocol_Scarlet+Witch_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2021"
+            }
+        ]
+    }
+}

@@ -1,7 +1,6 @@
 'use client';
 
 import GoogleLoginButton from "./GoogleLoginButton";
-import TwitterLoginButton from "./TwitterLoginButton";
 
 export default function LoginScreen({
   onGoogleButtonClick,
@@ -18,7 +17,6 @@ export default function LoginScreen({
 
       <div className="flex flex-col items-center gap-4">
         <GoogleLoginButton onClick={onGoogleButtonClick} />
-        <TwitterLoginButton onClick={onTwitterButtonClick} />
       </div>
     </div>
   </main>

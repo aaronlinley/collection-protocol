@@ -1,0 +1,20 @@
+{
+    "id": 62,
+    "name": "She-Hulk",
+    "slug": "she-hulk",
+    "description": "Jennifer Walters is the cousin of Bruce Banner, the Hulk. After an attempt on her life left her in critical condition, a blood transfusion from Banner infused her with gamma irradiation and transformed her into the savage and sensational She-Hulk. While she gained much of the superhuman strength of the Hulk, Walters retains her sharp wit and honed sense of justice when she transforms, becoming a less inhibited version of herself. She rarely sees the need to return to her original self, preferring instead to fight crime with her immense strength and durability.",
+    "set": "CP39 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1605808121091-U0DFCF9GOEI48LV52IM2/CP39_SheHulk_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$24.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2021"
+            }
+        ]
+    }
+}

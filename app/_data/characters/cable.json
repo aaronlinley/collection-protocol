@@ -1,0 +1,20 @@
+{
+    "id": 74,
+    "name": "Cable",
+    "slug": "cable",
+    "description": "Cable, the son of the X-Men leader Cyclops, was sent to the future to save his life when he was infected by the deadly techno-organic virus. Raised by Clan Askani, Cable was able to use his own incredible mutant powers to keep the virus in check, though the constant strain limits him from reaching his true potential. Granted incredible telepathic and telekinetic powers from his mutation, Cable is also equipped with advanced weaponry and technology from the 38th century. Having traveled back in time, Cable now seeks to change the apocalyptic future from which he grew up and ensure a better world for all.",
+    "set": "CP47 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1611248794556-6PQ58O3OW9SK4ON3HI5W/CP47_CrisisProtocol_Cable_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2021"
+            }
+        ]
+    }
+}

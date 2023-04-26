@@ -1,0 +1,20 @@
+{
+    "id": 45,
+    "name": "Ghost Rider",
+    "slug": "ghost-rider",
+    "description": "Johnny Blaze was a renowned motorcycle stuntman until he made a deal with a demon to save the life of his mentor from a mysterious illness. Forced to share his body with the demon Zarathos, Johnny found himself able to transform into the embodiment of the Spirit of Vengeance. As Ghost Rider, Johnny can do everything from manipulating hellfire to devouring sinful souls, to forcing evil-doers to feel all the pain they've ever caused by unleashing his “Penance Stare.” Tearing through the night on his flaming motorcycle, Ghost Rider never stops in delivering punishment to those who dare do harm to the innocent.",
+    "set": "CP27 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1598552471655-87U2AK8VYCCSR9610Z5G/CP27_CrisisProtocol_GhostRider_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$34.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2020"
+            }
+        ]
+    }
+}

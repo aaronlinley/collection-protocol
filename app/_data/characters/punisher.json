@@ -1,0 +1,20 @@
+{
+    "id": 52,
+    "name": "Punisher",
+    "slug": "punisher",
+    "description": "Frank Castle was a former Marine just trying to pick up a normal life with the family he loved. But when that family was murdered, Frank swore to avenge them by punishing those who hurt the innocent. Proficient in close quarters combat, a trained marksman, and an explosives expert, Frank now stalks the mean streets delivering his own brand of personal justice as the Punisher.",
+    "set": "CP32 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1589565188236-T3K512LEGL8SA7SL0NNF/CP32_CrisisProtocol_Punisher_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": 111,
+    "name": "Arnim Zola",
+    "slug": "arnim-zola",
+    "description": "Doctor Arnim Zola was a scientist who pursued the creation of super-soldiers for the purpose of world domination. Performing cruel experiments during World War II, Zola worked alongside villains like Baron Zemo and the Red Skull. The mad doctor transferred his consciousness into a synthetic body, allowing him to continue his nefarious work well into the future, using his genius intellect and scientific knowledge as weapons against all who would stop him.",
+    "set": "CP76 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1654870497498-57MCYIPWXCQR9U3XUU9R/CP76en_CrisisProtocol_Web_Minis.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$49.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

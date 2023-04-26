@@ -1,10 +1,10 @@
 {
-    "id": 38,
+    "id": 105,
     "name": "Doctor Strange",
     "slug": "doctor-strange",
-    "description": "Once a brilliant surgeon, Doctor Stephen Strange was set upon a different path when he lost the use of his hands in an accident. Seeking mystical healing, Strange instead discovered a new destiny as a master of the mystic arts. As Earth's Sorcerer Supreme, Doctor Strange wields arcane spells and mystical artifacts such as the Eye of Agamotto and Cloak of Levitation to defend the planet against interdimensional threats.",
-    "set": "CP23 | Character Pack",
-    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1588978821970-M9PCMBIB6W69YAUOPG58/CP23_CrisisProtocol_DoctorStrange_Web.png?format=1000w",
+    "description": "Stephen Strange has had many unusual encounters, but none have tested him so much as losing his connection to the arcane power of Earth. Without his magical mastery, Stephen Strange was forced to seek out new allies and a new source of power beyond the boundaries of earth. Only then could he reclaim the title of Sorcerer Supreme.",
+    "set": "CP67 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1625851000952-XWHUOD30K98N0969TRJ2/CP67en_CrisisProtocol_Web_DoctorStrange.png?format=1000w",
     "pack": {
         "info": [
             {
@@ -13,7 +13,7 @@
             },
             {
                 "title": "Release",
-                "value": "Q3 2020"
+                "value": "Q3 2021"
             }
         ]
     }

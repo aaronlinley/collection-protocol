@@ -1,0 +1,20 @@
+{
+    "id": 85,
+    "name": "Omega Red",
+    "slug": "omega-red",
+    "description": "Soviet-era experiments intending to create a super-soldier on par with Captain America resulted in the creation of Omega Red. Once the Russian criminal Arkady Gregorivich Rossovich, Omega Red is the product of extensive and invasive experiments that transformed him into a dangerous weapon. The experiments implanted carbonadium tendrils into Omega Red's body, an alloy almost as strong as adamantium, which act as his primary weapons. However, a side effect is that the radioactive carbonadium is slowly poisoning him. Omega Red must feed on the life force of others to temporarily preserve himself, which he does by wrapping his foes in his tendrils and feasting on their life force to sustain his own. Whether he is fighting enemies, working for criminal masterminds, or killing to stay alive, Omega Red is a powerful and dangerous opponent.",
+    "set": "CP54 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1622555101544-96RAWD10GK3HQJPUHHIX/CP54_CrisisProtocol_OmegaRed_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$29.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2021"
+            }
+        ]
+    }
+}

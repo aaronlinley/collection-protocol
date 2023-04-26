@@ -1,0 +1,20 @@
+{
+    "id": 90,
+    "name": "Magik",
+    "slug": "magik",
+    "description": "Illyana Rasputin is the younger sister of Colossus. Abducted at a young age by Belasco, the sorcerer and master of the realm known as The Otherplace, Illyana trained in the art of magic and overthrew her captor to become Magik, the Sorceress Supreme of Otherplace! Her mutant ability to teleport herself and others through space and time by using stepping discs, pieces of Limbo that act as a midway point between locations and points in time, allows her to be anywhere and anywhen her mystic power is needed.",
+    "set": "CP57 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1631106985909-62VJEUXMOPZT1YNUOYWD/CP57en_CrisisProtocol_Web_mini.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2022"
+            }
+        ]
+    }
+}

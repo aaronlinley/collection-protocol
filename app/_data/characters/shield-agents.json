@@ -1,0 +1,20 @@
+{
+    "id": 87,
+    "name": "Shield Agents",
+    "slug": "shield-agents",
+    "description": "Outfitted with the latest in advanced weaponry and equipment, these agents support Fury in the field and secure vital assets in a crisis. Each is a highly-skilled, dedicated agent trained in both covert operations and full-scale crisis containment.",
+    "set": "CP55 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1641306341533-5KFESKUQ5QWZL3WY4UTG/CP55en_CrisisProtocol_Web_Mini_ShieldAgents.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$44.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2022"
+            }
+        ]
+    }
+}

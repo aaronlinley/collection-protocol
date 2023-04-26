@@ -1,0 +1,20 @@
+{
+    "id": 110,
+    "name": "Baron Strucker",
+    "slug": "baron-strucker",
+    "description": "Baron Wolfgang von Strucker may have been born into the ranks of the nobility, but he has spent his prolonged life in pursuit of nefarious goals. As an ally of the Red Skull and wing commander of the Death's Head Squadron, Strucker waged campaigns of invasion and oppression. As the founder of HYDRA, Strucker's villainy has spread deeply across the world. After becoming infected with the deathspore virus, Strucker gained an array of superhuman abilities, including suppressed aging that keeps this notorious villain alive to this day.",
+    "set": "CP76 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1654870497498-57MCYIPWXCQR9U3XUU9R/CP76en_CrisisProtocol_Web_Minis.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$49.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

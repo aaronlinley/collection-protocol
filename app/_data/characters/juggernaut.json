@@ -1,0 +1,20 @@
+{
+    "id": 88,
+    "name": "Juggernaut",
+    "slug": "juggernaut",
+    "description": "Cain Marko is the Juggernaut, a human wrecking ball of unstoppable force who lays waste to everything unlucky enough to be in his path. He was once an average human before discovering the Crimson Gem of Cyttorak, a conduit to the power of the deity of the Crimson Cosmos, that transformed Marko into the Juggernaut. Possessing unfathomable strength and durability, he is among the strongest physical beings alive. Juggernaut has endless strength and kinetic power, with the ability to shatter mountains, and a mystical force field makes him impervious to any harm. Once he gains momentum, nothing on Earth can stop his advance.",
+    "set": "CP56 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1631104788757-F90Y58W1UQCS87XCQO57/CP56_CrisisProtocol_Web_Mini.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$49.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2022"
+            }
+        ]
+    }
+}

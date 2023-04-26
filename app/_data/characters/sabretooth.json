@@ -1,0 +1,20 @@
+{
+    "id": 64,
+    "name": "Sabretooth",
+    "slug": "sabretooth",
+    "description": "The mutant Victor Creed, called Sabertooth by many, is a feral assassin and mercenary. His mutant abilities grant him an enhanced healing rate, keen senses, and razor-sharp claws he uses to savage his foes. He is a long-time enemy ofWolverine. Their pasts intertwine through decades of conflict, and Sabertooth acts as a dark mirror of Wolverine's suppressed savage instincts.",
+    "set": "CP40 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1602782418560-F8PY8D1AGCJY44BY8LG1/CP40_Sabretooth_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

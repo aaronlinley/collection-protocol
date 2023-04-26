@@ -1,0 +1,20 @@
+{
+    "id": 48,
+    "name": "Kingpin",
+    "slug": "kingpin",
+    "description": "Wilson Fisk is a criminal mastermind and the single most feared, dangerous, and powerful crime lord in New York City. From humble beginnings as a poor street thug, Fisk used his genius intellect, physical strength, and sheer ruthlessness to remove all rivals and become the unseen ruler of all organized crime in the city. As the Kingpin, Fisk is a master manipulator, controlling events to increase his power and the reach of his criminal empire. When an example has to be made, the Kingpin uses his enormous strength and skills in the martial arts to utterly crush his foes in physical combat. Counting the likes of Spider-Man, Daredevil, and the Punisher among his long list of enemies, the Kingpin has no qualms in exploiting his adversary's principles to usher their destruction.",
+    "set": "CP29 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1599674322500-3VLV7USBKKAKVLKT0976/CP29_CrisisProtocol_Kingpin_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$24.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2021"
+            }
+        ]
+    }
+}

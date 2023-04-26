@@ -1,0 +1,20 @@
+{
+    "id": 75,
+    "name": "Domino",
+    "slug": "domino",
+    "description": "Neena Thurman, a.k.a. Domino, was the product of an illicit government program whose goal was to create the ultimate mutant weapon. Unwilling to be a pawn of anyone, Domino escaped with the help of her powers and set out to find her own path in the world. With her ability to manipulate probability fields—ensuring things always go her way—and her extensive training in armed and unarmed combat, Domino became one of the most dangerous mercenaries in the world. Not long after, Domino found a new home and purpose as a hero as a mainstay member of X-Force.",
+    "set": "CP47 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1611248795845-W5JJ5ZCHFDGDIAQDWYS5/CP47_CrisisProtocol_Domino_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2021"
+            }
+        ]
+    }
+}

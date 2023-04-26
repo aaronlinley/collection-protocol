@@ -1,0 +1,20 @@
+{
+    "id": 68,
+    "name": "Toad",
+    "slug": "toad",
+    "description": "Mortimer Toynbee, known as Toad, is a genetically flawed mutant. Visibly mutated since birth, he was abandoned by his parents to an orphanage where he was ostracized for his appearance. When Magneto discovered and recruited him, Toad embraced the mission to conquer the human race who had rejected and degraded him. Toad serves Magneto as an unquestioning lackey using his mutant abilities of enhanced jumping and prehensile tongue.",
+    "set": "CP42 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1602786261687-4BUXKBTKQ14NQNLH3X39/CP42_Toad_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$44.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

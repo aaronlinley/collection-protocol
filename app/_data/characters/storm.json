@@ -1,0 +1,20 @@
+{
+    "id": 66,
+    "name": "Storm",
+    "slug": "storm",
+    "description": "Ororo Munroe descends from along line of witch-priestesses.Once worshipped as a goddess of the storm, she is a mutant with the ability to control the weather, able to produce hurricane winds and summon lightning at a whim. After a chance encounter with Professor Xavier, Munroe joined his task force, the X-Men. As a member of the X-Men, she is Storm, a capable leader and one of the most powerful mutants in existence.",
+    "set": "CP41 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1602785229658-D2XHDWYUWVX9IG4A1819/CP41_Storm_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q4 2020"
+            }
+        ]
+    }
+}

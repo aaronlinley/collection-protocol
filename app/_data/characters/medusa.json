@@ -1,0 +1,20 @@
+{
+    "id": 55,
+    "name": "Medusa",
+    "slug": "medusa",
+    "description": "Medusalith Amaquelin-Boltagon, or Medusa, is the wife of Black Bolt and queen of the Inhumans. Through exposure to the Terrigen mists, she gained psychokinetic control over her hair. Each strand is stronger than steel and she can manipulate them like an array of countless appendages. She can whip her hair faster than the speed of sound or use it to bind someone in place. Medusa's control of her hair is so precise that she can use it to perform work as delicate as picking a lock or threading a needle.",
+    "set": "CP34 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1607382095764-WLI50CDARN89U7J342MV/CP34_CrisisProtocol_Medusa_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2021"
+            }
+        ]
+    }
+}

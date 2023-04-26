@@ -1,0 +1,20 @@
+{
+    "id": 125,
+    "name": "Heimdall",
+    "slug": "heimdall",
+    "description": "Heimdall is an all-seeing Asgardian in charge of defending the Bifrost, the Rainbow Bridge. Chosen by Odin himself, he is Asgard's first line of defense against any incursion. Able to see and hear across both time and space, he can predict all but the most cunning efforts to infiltrate the Realm Eternal.",
+    "set": "CP102 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1652104440722-HJ6HMQ4SJL2ENW17QWE2/CP102_CrisisProtocol_Web_Mini1.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

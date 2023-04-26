@@ -1,0 +1,20 @@
+{
+    "id": 61,
+    "name": "War Machine",
+    "slug": "war-machine",
+    "description": "Lieutenant Colonel James “Rhodey” Rhodes is War Machine, an armored Avenger and walking arsenal. As Tony Stark's personal pilot and closest friend, Rhodes wears the Variable Threat Response Battle Suit, a suit of armor equipped with a variety of armaments including shoulder-mounted cannons, missile launchers, particle beams, repulsors, and more. War Machine combines his many years of experience as a Marine pilot and Tony Stark's cutting-edge designs as an Avenger and symbol of mechanized might.",
+    "set": "CP38 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1617988176739-R3QP22WWYWBJJZ6EY3CK/CP38_CrisisProtocol_War+Machine_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2021"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": 60,
+    "name": "Captain America (Sam Wilson)",
+    "slug": "captain-america-sam-wilson",
+    "description": "After the super-soldier serum wore off, Steve Rogers was restored to his natural age. Unable to battle any longer, he retired from the role of Captain America. Rogers chose Sam Wilson, one of his closest and most trusted allies, to take up the shield in his place. Wilson had already proved his commitment to protecting justice as the Avenger Falcon and continues to protect the vulnerable as Captain America.",
+    "set": "CP38 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1617988170289-0LK1WD24YBLRG95EGQ9Z/CP38_CrisisProtocol_Captain+America_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$39.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2021"
+            }
+        ]
+    }
+}

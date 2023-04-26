@@ -1,0 +1,20 @@
+{
+    "id": 103,
+    "name": "Hood",
+    "slug": "hood",
+    "description": "Parker Robbins was a petty criminal until he clashed with a Nisanti demon and took its mystical cloak. The cloak endowed him with powerful magical abilities, allowing him to rise as a dangerous crime lord and sorcerer. He assumed the identity of the Hood, a villain who uses his power of flight and invisibility to gather other criminals under his leadership.",
+    "set": "CP65 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1625847337956-6XPBQH23BQOFOYEWIQSY/CP65_CrisisProtocol_Hood_Web.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$49.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2021"
+            }
+        ]
+    }
+}

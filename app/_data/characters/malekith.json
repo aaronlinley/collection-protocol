@@ -1,0 +1,20 @@
+{
+    "id": 124,
+    "name": "Malekith",
+    "slug": "malekith",
+    "description": "Malekith, the thirteenth son of a thirteenth son, is the ruler of the Dark Elves of Svartalfheim and a bitter enemy of Thor, who uses magic and deception to bring his enemies down and wage war across all the Realms. He transforms mortals into his unwitting agents as a master manipulator with a silver tongue and the capacity to assume the form of another. He is the Master of the Wild Hunt with the means to summon an army of voracious hounds to pursue anything he wishes.",
+    "set": "CP93 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1654874059471-J8PXY0SF02HQ90TSTG7F/CP93_CrisisProtocol_Web_Mini.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$54.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

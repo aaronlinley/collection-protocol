@@ -1,0 +1,20 @@
+{
+    "id": 86,
+    "name": "Nick Fury",
+    "slug": "nick-fury",
+    "description": "Nicholas Fury, Junior is the son of famed S.H.I.E.L.D. Director Nick Fury. A veteran Army Ranger who served overseas, Nick Fury returned to the United States following the murder of his mother. He tracked down and neutralized the killer with the help of the Avengers and S.H.I.E.L.D., after which he became one of the top operatives of the Strategic Homeland Intervention, Enforcement, and Logistics Division. In addition to his high level strategic and tactical skills, Nick Fury has inherited the Infinity Formula in his blood, giving him faster healing and peak physical capabilities.",
+    "set": "CP55 | Character Pack",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ce432b1f9d2be000134d8ae/1641306341500-X064UJAMYME3NNY9S3PT/CP55en_CrisisProtocol_Web_Mini_NickFury.png?format=1000w",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$44.95"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2022"
+            }
+        ]
+    }
+}
