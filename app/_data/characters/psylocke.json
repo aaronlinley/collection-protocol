@@ -1,0 +1,20 @@
+{
+    "id": 141,
+    "name": "Psylocke",
+    "slug": "psylocke",
+    "description": "",
+    "set": "CP103 | Character Pack",
+    "image": "https://b2b.asmodee.es/product/image/large/cp103en_3.png",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

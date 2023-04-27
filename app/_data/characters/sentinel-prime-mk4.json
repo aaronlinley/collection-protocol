@@ -1,0 +1,20 @@
+{
+    "id": 127,
+    "name": "Sentinel Prime MK4",
+    "slug": "sentinel-prime-mk4",
+    "description": "",
+    "set": "CP160 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp160en-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

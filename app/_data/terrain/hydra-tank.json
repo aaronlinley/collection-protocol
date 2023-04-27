@@ -1,0 +1,20 @@
+{
+    "id": 10007,
+    "name": "Hydra Tank",
+    "slug": "hydra-tank",
+    "description": "",
+    "set": "CP78 | Terrain Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp78en-1.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$69.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2022"
+            }
+        ]
+    }
+}

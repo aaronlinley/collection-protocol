@@ -1,0 +1,20 @@
+{
+    "id": 135,
+    "name": "Rhino",
+    "slug": "rhino",
+    "description": "",
+    "set": "CP98 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp98en-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

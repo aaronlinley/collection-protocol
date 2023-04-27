@@ -1,0 +1,20 @@
+{
+    "id": 133,
+    "name": "Pyro",
+    "slug": "pyro",
+    "description": "",
+    "set": "CP82 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp82en-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

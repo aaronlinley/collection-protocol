@@ -1,0 +1,20 @@
+{
+    "id": 140,
+    "name": "Emma Frost",
+    "slug": "emma-frost",
+    "description": "",
+    "set": "CP103 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp103en-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

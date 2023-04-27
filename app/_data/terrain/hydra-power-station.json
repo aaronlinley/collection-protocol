@@ -1,0 +1,20 @@
+{
+    "id": 10008,
+    "name": "Hydra Power Station",
+    "slug": "hydra-power-station",
+    "description": "",
+    "set": "CP178 | Terrain Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp178en-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$69.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2022"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": 132,
+    "name": "The Blob",
+    "slug": "the-blob",
+    "description": "",
+    "set": "CP82 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp82en-1.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

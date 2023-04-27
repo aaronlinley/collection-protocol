@@ -1,0 +1,20 @@
+{
+    "id": 139,
+    "name": "Ulik",
+    "slug": "ulik",
+    "description": "",
+    "set": "CP130 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp130en-3.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

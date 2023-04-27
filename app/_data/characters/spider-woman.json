@@ -1,0 +1,20 @@
+{
+    "id": 137,
+    "name": "Spider-Woman",
+    "slug": "spider-woman",
+    "description": "",
+    "set": "CP100 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp100en-3.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

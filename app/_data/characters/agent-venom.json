@@ -1,0 +1,20 @@
+{
+    "id": 136,
+    "name": "Agent Venom",
+    "slug": "agent-venom",
+    "description": "",
+    "set": "CP100 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp100en-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

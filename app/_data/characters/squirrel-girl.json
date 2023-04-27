@@ -1,0 +1,20 @@
+{
+    "id": 144,
+    "name": "Squirrel Girl",
+    "slug": "squirrel-girl",
+    "description": "",
+    "set": "CP137 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp137en-3.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

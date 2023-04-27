@@ -1,0 +1,20 @@
+{
+    "id": 138,
+    "name": "Beta Ray Bill",
+    "slug": "beta-ray-bill",
+    "description": "",
+    "set": "CP130 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp130en-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

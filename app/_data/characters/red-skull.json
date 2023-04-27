@@ -1,0 +1,20 @@
+{
+    "id": 130,
+    "name": "Red Skull",
+    "slug": "red-skull",
+    "description": "",
+    "set": "CP74 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp74en-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

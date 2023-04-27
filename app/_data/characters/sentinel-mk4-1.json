@@ -1,0 +1,20 @@
+{
+    "id": 128,
+    "name": "Sentinel MK4",
+    "slug": "sentinel-mk4-1",
+    "description": "",
+    "set": "CP51 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp51en-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

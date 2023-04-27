@@ -1,0 +1,20 @@
+{
+    "id": 143,
+    "name": "M.O.D.O.K Scientist Supreme",
+    "slug": "modok-scientist-supreme",
+    "description": "",
+    "set": "CP145 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp145en-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}

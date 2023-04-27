@@ -1,0 +1,20 @@
+{
+    "id": 134,
+    "name": "Weapon X Program",
+    "slug": "weapon-x-program",
+    "description": "",
+    "set": "CPE03 | Rival Panels",
+    "image": "https://shop.asmodee.com/product/image/large/cpe03en-1.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2022"
+            }
+        ]
+    }
+}
