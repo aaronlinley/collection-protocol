@@ -32,7 +32,7 @@ export default function ModelsGrid({
               key={tab}
               className={({ selected }) =>
                 classNames(
-                  'w-full py-2.5 text-sm font-medium leading-5 text-slate-700',
+                  'w-full py-2.5 text-sm font-bold uppercase tracking-widest text-slate-700',
                   'focus:outline-none focus:ring-0',
                   selected
                     ? 'bg-white shadow'

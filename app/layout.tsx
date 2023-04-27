@@ -1,5 +1,5 @@
 import './globals.css'
-import { Inter } from 'next/font/google'
+import { Roboto } from 'next/font/google'
 
 import Providers from './providers'
 
@@ -7,7 +7,7 @@ export const metadata = {
   title: 'Collection Protocol',
 }
 
-const inter = Inter({ subsets: ['latin'] })
+const roboto = Roboto({ weight: ['400', '700'], style: ['italic', 'normal'], subsets: ['latin'] })
 
 export default function RootLayout({
   children,
@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`bg-none bg-slate-200 ${inter.className}`}>
+      <body className={`bg-none bg-slate-200 ${roboto.className}`}>
         <Providers>{children}</Providers>
       </body>
     </html>

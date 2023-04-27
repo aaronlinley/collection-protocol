@@ -42,7 +42,7 @@ export default function Model({
   inProgress: boolean;
   painted: boolean;
 }) {
-  const buttonClasses = "border border-slate-700 px-2 py-1 text-sm text-slate-700 hover:bg-slate-700 hover:text-white";
+  const buttonClasses = "border-2 border-slate-700 px-2 py-1 text-sm text-slate-700 hover:bg-slate-700 hover:text-white";
   const activeButtonClasses = "border border-green-700 px-2 py-1 bg-green-700 text-sm text-white";
 
   const userId = useContext(FirebaseAuthUserContext);
@@ -215,11 +215,11 @@ export default function Model({
       <h2 className="text-lg font-bold text-slate-700 mb-2">{model.name}</h2>
 
       <div className="flex flex-wrap gap-2">
-        <button className={`${isOwned ? activeButtonClasses : buttonClasses}`} onClick={() => handleOwned()}>Owned</button>
-        <button className={`${isAssembled ? activeButtonClasses : buttonClasses}`} onClick={() => handleAssembled()}>Assembled</button>
-        <button className={`${isPrimed ? activeButtonClasses : buttonClasses}`} onClick={() => handlePrimed()}>Primed</button>
-        <button className={`${isInProgress ? activeButtonClasses : buttonClasses}`} onClick={() => handleInProgress()}>In Progress</button>
-        <button className={`${isPainted ? activeButtonClasses : buttonClasses}`} onClick={() => handlePainted()}>Painted</button>
+        <button className={`text-xs uppercase tracking-widest font-bold ${isOwned ? activeButtonClasses : buttonClasses}`} onClick={() => handleOwned()}>Owned</button>
+        <button className={`text-xs uppercase tracking-widest font-bold ${isAssembled ? activeButtonClasses : buttonClasses}`} onClick={() => handleAssembled()}>Assembled</button>
+        <button className={`text-xs uppercase tracking-widest font-bold ${isPrimed ? activeButtonClasses : buttonClasses}`} onClick={() => handlePrimed()}>Primed</button>
+        <button className={`text-xs uppercase tracking-widest font-bold ${isInProgress ? activeButtonClasses : buttonClasses}`} onClick={() => handleInProgress()}>In Progress</button>
+        <button className={`text-xs uppercase tracking-widest font-bold ${isPainted ? activeButtonClasses : buttonClasses}`} onClick={() => handlePainted()}>Painted</button>
       </div>
     </div>
   </div>
