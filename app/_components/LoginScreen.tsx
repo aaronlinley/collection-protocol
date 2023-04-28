@@ -12,7 +12,7 @@ export default function LoginScreen({
   onGoogleButtonClick: () => void;
   onTwitterButtonClick: () => void;
 }) {
-  return <main className="flex flex-col justify-center  min-h-screen p-24">
+  return <main className="flex flex-col justify-center min-h-screen p-12 xl:p-24">
     <div className="container mx-auto">
       <h1 className={`${roboto.className} text-4xl text-center font-bold text-slate-700 mb-2`}>Collection Protocol</h1>
       <p className="text-center text-slate-700 mb-6">Keep track of your collected Marvel: Crisis Protocol models and their various completion states.</p>
