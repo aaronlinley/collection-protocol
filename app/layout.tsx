@@ -1,5 +1,6 @@
 import './globals.css'
 import { Roboto } from 'next/font/google'
+import { Analytics } from '@vercel/analytics/react'
 
 import Providers from './providers'
 
@@ -19,6 +20,7 @@ export default function RootLayout({
       <body className={`bg-none bg-slate-200 ${roboto.className}`}>
         <Providers>{children}</Providers>
         <p className="text-center text-sm p-4 text-slate-700">This site is in no way affiliated with Marvel, Disney, or Atomic Mass Games.</p>
+        <Analytics />
       </body>
     </html>
   )
