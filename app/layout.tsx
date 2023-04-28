@@ -18,6 +18,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`bg-none bg-slate-200 ${roboto.className}`}>
         <Providers>{children}</Providers>
+        <p className="text-center text-sm p-4">This site is in no way affiliated with Marvel, Disney, or Atomic Mass Games.</p>
       </body>
     </html>
   )
