@@ -1,0 +1,20 @@
+{
+    "id": 146,
+    "name": "Cosmic Ghost Rider",
+    "slug": "cosmic-ghost-rider",
+    "description": "",
+    "set": "CP90 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp90en-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "$44.99"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2024"
+            }
+        ]
+    }
+}
