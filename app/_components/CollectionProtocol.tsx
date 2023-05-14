@@ -10,12 +10,5 @@ export default function CollectionProtocol({
   characters: ModelType[],
   terrain: ModelType[]
 }) {
-  return <>
-    <div className="flex w-100 justify-center">
-      <ModelsGrid
-        characters={characters}
-        terrain={terrain}
-      />
-    </div>
-  </>
+  return <ModelsGrid characters={characters} terrain={terrain} />
 }
