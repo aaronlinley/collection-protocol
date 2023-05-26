@@ -27,13 +27,14 @@ const setDocData = async (docName: string, userId: string|null, docData: {}) => 
   }
 }
 
-export default function Model({
+export default function ModelListItem({
   model,
   owned,
   assembled,
   primed,
   inProgress,
   painted,
+  last
 }: {
   model: ModelType;
   owned: boolean;
@@ -41,6 +42,7 @@ export default function Model({
   primed: boolean;
   inProgress: boolean;
   painted: boolean;
+  last?: boolean
 }) {
   const buttonClasses = "border-2 border-slate-700 px-2 py-1 text-sm text-slate-700 hover:bg-slate-700 hover:text-white";
   const activeButtonClasses = "border border-green-700 px-2 py-1 bg-green-700 text-sm text-white";
@@ -209,8 +211,8 @@ export default function Model({
     }
   }
 
-  return <div className="max-w-sm mx-auto bg-white shadow-lg">
-    <Image src={model.image} alt={model.name} className="block" width={500} height={500} />
+  return <div className={`bg-white flex ${!last ? "border-b-2 border-slate-700" : ""}`}>
+    <Image src={model.image} alt={model.name} className="block" width={100} height={100} />
     <div className="px-5 py-4">
       <h2 className="text-lg font-bold text-slate-700 mb-2">{model.name}</h2>
 

@@ -1,20 +1,20 @@
 'use client';
 
-import ModelCard from './ModelCard';
 import { ModelType } from '../_types/model';
 import { useContext } from 'react';
 import { UserModelsContext } from '../_context/UserModelsContext';
+import ModelListItem from './ModelListItem';
 
-export default function ModelsGrid({
+export default function ModelsList({
   models
 }: {
   models: ModelType[]
 }) {
   const userModels = useContext(UserModelsContext);
 
-  return <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-4">
-    {models?.map((model) => (
-      <ModelCard
+  return <div className="flex flex-col">
+    {models?.map((model, idx) => (
+      <ModelListItem
         key={`model${model.id}`}
         model={model}
         owned={userModels.owned?.includes(model.id) || false}
@@ -22,6 +22,7 @@ export default function ModelsGrid({
         primed={userModels.primed?.includes(model.id) || false}
         inProgress={userModels.inProgress?.includes(model.id) || false}
         painted={userModels.painted?.includes(model.id) || false}
+        last={idx === (models.length - 1)}
       />
     ))}
   </div>
