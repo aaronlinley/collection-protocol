@@ -44,7 +44,7 @@ export default function ModelListItem({
   painted: boolean;
   last?: boolean
 }) {
-  const buttonClasses = "border-2 border-slate-700 px-2 py-1 text-sm text-slate-700 hover:bg-slate-700 hover:text-white";
+  const buttonClasses = "border-2 border-primary px-2 py-1 text-sm text-primary hover:bg-primary hover:text-white";
   const activeButtonClasses = "border border-green-700 px-2 py-1 bg-green-700 text-sm text-white";
 
   const userId = useContext(FirebaseAuthUserContext);
@@ -211,10 +211,10 @@ export default function ModelListItem({
     }
   }
 
-  return <div className={`bg-white flex ${!last ? "border-b-2 border-slate-700" : ""}`}>
-    <Image src={model.image} alt={model.name} className="block" width={100} height={100} />
-    <div className="px-5 py-4">
-      <h2 className="text-lg font-bold text-slate-700 mb-2">{model.name}</h2>
+  return <div className={`bg-white flex ${!last ? "border-b-2 border-primary" : ""}`}>
+    <Image src={model.image} alt={model.name} className="block" width={80} height={80} />
+    <div className="px-5 py-4 flex flex-col w-full items-start lg:flex-row lg:items-center lg:justify-between">
+      <h2 className="text-lg font-bold text-primary mb-2 lg:mb-0 lg:w-[40%]">{model.name}</h2>
 
       <div className="flex flex-wrap gap-2">
         <button className={`text-xs uppercase tracking-widest font-bold ${isOwned ? activeButtonClasses : buttonClasses}`} onClick={() => handleOwned()}>Owned</button>

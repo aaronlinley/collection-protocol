@@ -6,7 +6,6 @@ import ModelsList from './ModelsList';
 import ViewToggle from './ViewToggle';
 import Search from './Search';
 import { ModelType } from '../_types/model';
-import Script from 'next/script';
 import { useEffect, useState } from 'react';
 
 function classNames(...classes: string[]) {
@@ -42,7 +41,6 @@ export default function CollectionProtocol({
   }, [searchTerm, characters, terrain])
 
   return <>
-    <Script strategy="lazyOnload" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1280989896075709" />
     <div className="flex flex-col md:flex-row justify-between items-center mb-4">
       <div className="w-full md:w-2/3 order-2 md:order-1">
         <Search onSearch={setSearchTerm} />
@@ -58,11 +56,11 @@ export default function CollectionProtocol({
             key={tab}
             className={({ selected }) =>
               classNames(
-                'w-full py-2.5 text-sm font-bold uppercase tracking-widest text-slate-700',
+                'w-full py-2.5 text-sm font-bold uppercase tracking-widest text-primary',
                 'focus:outline-none focus:ring-0',
                 selected
-                  ? 'bg-white border-x-2 border-t-2 border-slate-700'
-                  : 'text-slate-600 hover:bg-white/[0.12] border-b-2 border-slate-700'
+                  ? 'bg-white border-x-2 border-t-2 border-primary border-b-white'
+                  : 'text-slate-600 hover:bg-white/[0.12] border-b-2 border-b-primary'
               )
             }
           >
@@ -70,7 +68,7 @@ export default function CollectionProtocol({
           </Tab>
         ))}
       </Tab.List>
-      <Tab.Panels className={`bg-white border-x-2 border-b-2 border-slate-700 ${view === 'grid' ? "p-3" : ""}`}>
+      <Tab.Panels className={`bg-white border-x-2 border-b-2 border-primary ${view === 'grid' ? "p-3" : ""}`}>
         <Tab.Panel key={`characters-tab-panel`}>
           {view === 'grid' && <ModelsGrid models={filteredCharacters} />}
           {view === 'list' && <ModelsList models={filteredCharacters} />}

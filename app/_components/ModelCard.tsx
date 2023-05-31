@@ -42,7 +42,7 @@ export default function ModelCard({
   inProgress: boolean;
   painted: boolean;
 }) {
-  const buttonClasses = "border-2 border-slate-700 px-2 py-1 text-sm text-slate-700 hover:bg-slate-700 hover:text-white";
+  const buttonClasses = "border-2 border-primary px-2 py-1 text-sm text-primary hover:bg-primary hover:text-white";
   const activeButtonClasses = "border border-green-700 px-2 py-1 bg-green-700 text-sm text-white";
 
   const userId = useContext(FirebaseAuthUserContext);
@@ -209,10 +209,10 @@ export default function ModelCard({
     }
   }
 
-  return <div className="max-w-sm mx-auto bg-white border-2 border-slate-700">
+  return <div className="max-w-sm mx-auto bg-white border-2 border-primary">
     <Image src={model.image} alt={model.name} className="block" width={500} height={500} />
     <div className="px-5 py-4">
-      <h2 className="text-lg font-bold text-slate-700 mb-2">{model.name}</h2>
+      <h2 className="text-lg font-bold text-primary mb-2">{model.name}</h2>
 
       <div className="flex flex-wrap gap-2">
         <button className={`text-xs uppercase tracking-widest font-bold ${isOwned ? activeButtonClasses : buttonClasses}`} onClick={() => handleOwned()}>Owned</button>
