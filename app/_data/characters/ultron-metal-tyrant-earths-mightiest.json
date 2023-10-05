@@ -1,0 +1,20 @@
+{
+    "id": 153,
+    "name": "Ultron, Metal Tyrant (Earth's Mightiest)",
+    "slug": "ultron-metal-tyrant-earths-mightiest",
+    "description": "",
+    "set": "CP143 | Earth's Mightiest Core Set",
+    "image": "/models/characters/153.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2023"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": 155,
+    "name": "Red Skull, Master of the World (Earth's Mightiest)",
+    "slug": "red-skull-master-of-the-world-earths-mightiest",
+    "description": "",
+    "set": "CP143 | Earth's Mightiest Core Set",
+    "image": "/models/characters/155.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2023"
+            }
+        ]
+    }
+}

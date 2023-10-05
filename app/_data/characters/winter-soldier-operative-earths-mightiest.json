@@ -1,0 +1,20 @@
+{
+    "id": 160,
+    "name": "Winter Solider, Operative (Earth's Mightiest)",
+    "slug": "winter-soldier-operative-earths-mightiest",
+    "description": "",
+    "set": "CP143 | Earth's Mightiest Core Set",
+    "image": "/models/characters/160.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2023"
+            }
+        ]
+    }
+}

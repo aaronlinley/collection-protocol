@@ -1,0 +1,20 @@
+{
+    "id": 150,
+    "name": "Captain Marvel, Cosmic Avenger [Normal] (Earth's Mightiest)",
+    "slug": "captain-marvel-cosmic-avenger-normal-earths-mightiest",
+    "description": "",
+    "set": "CP143 | Earth's Mightiest Core Set",
+    "image": "/models/characters/150.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2023"
+            }
+        ]
+    }
+}

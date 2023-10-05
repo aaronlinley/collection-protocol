@@ -1,0 +1,20 @@
+{
+    "id": 149,
+    "name": "Captain America, First Avenger (Earth's Mightiest)",
+    "slug": "captain-america-first-avenger-earths-mightiest",
+    "description": "",
+    "set": "CP143 | Earth's Mightiest Core Set",
+    "image": "/models/characters/149.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2023"
+            }
+        ]
+    }
+}

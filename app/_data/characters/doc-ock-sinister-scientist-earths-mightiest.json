@@ -1,0 +1,20 @@
+{
+    "id": 156,
+    "name": "Doc Ock, Sinister Scientist (Earth's Mightiest)",
+    "slug": "doc-ock-sinister-scientist-earths-mightiest",
+    "description": "",
+    "set": "CP143 | Earth's Mightiest Core Set",
+    "image": "/models/characters/156.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2023"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": 158,
+    "name": "The Black Widow (Earth's Mightiest)",
+    "slug": "the-black-widow-earths-mightiest",
+    "description": "",
+    "set": "CP143 | Earth's Mightiest Core Set",
+    "image": "/models/characters/158.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2023"
+            }
+        ]
+    }
+}

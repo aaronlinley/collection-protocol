@@ -1,0 +1,20 @@
+{
+    "id": 154,
+    "name": "Crossbones, Merciless Merc (Earth's Mightiest)",
+    "slug": "crossbones-merciless-merc-earths-mightiest",
+    "description": "",
+    "set": "CP143 | Earth's Mightiest Core Set",
+    "image": "/models/characters/154.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2023"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": 157,
+    "name": "Invincible Iron Man (Earth's Mightiest)",
+    "slug": "invincible-iron-man-earths-mightiest",
+    "description": "",
+    "set": "CP143 | Earth's Mightiest Core Set",
+    "image": "/models/characters/157.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2023"
+            }
+        ]
+    }
+}

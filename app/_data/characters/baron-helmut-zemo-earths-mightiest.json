@@ -1,0 +1,20 @@
+{
+    "id": 152,
+    "name": "Baron Helmut Zemo (Earth's Mightiest)",
+    "slug": "baron-helmut-zemo-earths-mightiest",
+    "description": "",
+    "set": "CP143 | Earth's Mightiest Core Set",
+    "image": "/models/characters/152.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2023"
+            }
+        ]
+    }
+}

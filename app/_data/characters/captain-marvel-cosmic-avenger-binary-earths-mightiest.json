@@ -1,0 +1,20 @@
+{
+    "id": 151,
+    "name": "Captain Marvel, Cosmic Avenger [Binary] (Earth's Mightiest)",
+    "slug": "captain-marvel-cosmic-avenger-binary-earths-mightiest",
+    "description": "",
+    "set": "CP143 | Earth's Mightiest Core Set",
+    "image": "/models/characters/151.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q3 2023"
+            }
+        ]
+    }
+}
