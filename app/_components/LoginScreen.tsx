@@ -1,8 +1,7 @@
 'use client';
 
 import GoogleLoginButton from "./GoogleLoginButton";
-import TwitterLoginButton from "./TwitterLoginButton";
-import { Roboto_Condensed } from 'next/font/google';
+import XLoginButton from "./XLoginButton";
 import Image from "next/image";
 
 export default function LoginScreen({
@@ -20,7 +19,7 @@ export default function LoginScreen({
 
       <div className="flex flex-col items-center gap-4">
         <GoogleLoginButton onClick={onGoogleButtonClick} />
-        <TwitterLoginButton onClick={onTwitterButtonClick} />
+        <XLoginButton onClick={onTwitterButtonClick} />
       </div>
     </div>
   </main>
