@@ -13,4 +13,18 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
+      day: monday
+      time: 09:00
+    groups:
+      config:
+        patterns:
+        - postcss
+        - eslint*
+        - autoprefixer
+        - encoding
+        - @tanstack/react-query-devtools
+      types:
+        patterns:
+        - typescript
+        - @types*
