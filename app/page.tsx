@@ -13,7 +13,7 @@ export default async function Home() {
 
       <main className="flex flex-col items-center min-h-screen pt-24 px-4 pb-12 md:py-12 md:px-12 xl:px-24">
         <div className="container">
-          <Image src="/main-logo.png" width="150" height="167" alt="Collection Protocol" className="block mx-auto mb-12" />
+          <Image src="/logo.svg" width="150" height="139" alt="Collection Protocol" className="block mx-auto mb-12" />
 
           <CollectionProtocol characters={characters} terrain={terrain} />
         </div>

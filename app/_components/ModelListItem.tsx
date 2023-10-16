@@ -45,7 +45,7 @@ export default function ModelListItem({
   last?: boolean
 }) {
   const buttonClasses = "border-2 border-primary px-2 py-1 text-sm text-primary hover:bg-primary hover:text-white";
-  const activeButtonClasses = "border border-green-700 px-2 py-1 bg-green-700 text-sm text-white";
+  const activeButtonClasses = "border border-tertiary px-2 py-1 bg-tertiary text-sm text-white";
 
   const userId = useContext(FirebaseAuthUserContext);
   const userModelsUpdater = useContext(UserModelsDispatchContext);
