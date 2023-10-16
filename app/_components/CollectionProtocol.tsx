@@ -7,6 +7,7 @@ import ViewToggle from './ViewToggle';
 import Search from './Search';
 import { ModelType } from '../_types/model';
 import { useEffect, useState } from 'react';
+import { useWindowSize } from 'usehooks-ts';
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ')
@@ -31,6 +32,14 @@ export default function CollectionProtocol({
 
   const [view, setView] = useState<string>("grid");
 
+  const { width } = useWindowSize();
+
+  useEffect(() => {
+    if (width < 640 && view !== "grid") {
+      setView("grid");
+    }
+  }, [width]);
+
   useEffect(() => {
     setFilteredCharacters(characters.filter(
       (model) => model.name.toLocaleLowerCase().includes(searchTerm.toLocaleLowerCase())
@@ -38,14 +47,14 @@ export default function CollectionProtocol({
     setFilteredTerrain(terrain.filter(
       (model) => model.name.toLocaleLowerCase().includes(searchTerm.toLocaleLowerCase())
     ));
-  }, [searchTerm, characters, terrain])
+  }, [searchTerm, characters, terrain]);
 
   return <>
-    <div className="flex flex-col md:flex-row justify-between items-center mb-4">
-      <div className="w-full md:w-2/3 order-2 md:order-1">
+    <div className="flex flex-col sm:flex-row justify-between items-center mb-4">
+      <div className="w-full sm:w-2/3 mb-4 sm:mb-0">
         <Search onSearch={setSearchTerm} />
       </div>
-      <div className='order-1 md:order-2'>
+      <div className='hidden sm:block'>
         <ViewToggle onViewChange={setView} />
       </div>
     </div>

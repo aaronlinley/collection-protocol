@@ -211,7 +211,7 @@ export default function ModelListItem({
     }
   }
 
-  return <div className={`bg-white flex ${!last ? "border-b-2 border-primary" : ""}`}>
+  return <div className={`bg-white flex items-start ${!last ? "border-b-2 border-primary" : ""}`}>
     <Image src={model.image} alt={model.name} className="block" width={80} height={80} />
     <div className="px-5 py-4 flex flex-col w-full items-start lg:flex-row lg:items-center lg:justify-between">
       <h2 className="text-lg font-bold text-primary mb-2 lg:mb-0 lg:w-[40%]">{model.name}</h2>

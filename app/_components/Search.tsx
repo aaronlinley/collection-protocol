@@ -20,7 +20,7 @@ export default function Search({
 
   return (
     <div
-        className={`w-full mb-6 px-4 flex gap-4 items-center border-2 border-primary bg-white shadow-sm md:mb-0`}
+        className={`w-full px-4 flex gap-4 items-center border-2 border-primary bg-white shadow-sm`}
       >
       <MagnifyingGlassIcon className="w-6 h-6 text-neutral-400" />
       <input
