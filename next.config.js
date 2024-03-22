@@ -17,6 +17,10 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'storage.ko-fi.com'
+      },
+      {
+        protocol: 'https',
+        hostname: 'cdn.svc.asmodee.net'
       }
     ],
   }
