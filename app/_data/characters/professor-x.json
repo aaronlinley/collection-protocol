@@ -1,0 +1,20 @@
+{
+    "id": 163,
+    "name": "Professor X",
+    "slug": "professor-x",
+    "description": "",
+    "set": "CP151 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp151-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2024"
+            }
+        ]
+    }
+}

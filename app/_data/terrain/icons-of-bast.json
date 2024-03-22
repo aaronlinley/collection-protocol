@@ -1,0 +1,20 @@
+{
+    "id": 10010,
+    "name": "Icons of Bast",
+    "slug": "icons-of-bast",
+    "description": "",
+    "set": "CP180 | Terrain Pack",
+    "image": "https://cdn.svc.asmodee.net/production-amgcom/uploads/2023/12/CP180_Featured-Image.png",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2024"
+            }
+        ]
+    }
+}

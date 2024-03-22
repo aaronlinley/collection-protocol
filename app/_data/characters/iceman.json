@@ -1,0 +1,20 @@
+{
+    "id": 165,
+    "name": "Iceman",
+    "slug": "iceman",
+    "description": "",
+    "set": "CP96 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp96-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2024"
+            }
+        ]
+    }
+}

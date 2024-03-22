@@ -1,0 +1,20 @@
+{
+    "id": 167,
+    "name": "Bishop",
+    "slug": "bishop",
+    "description": "",
+    "set": "CP112 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp112-3.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q1 2024"
+            }
+        ]
+    }
+}
