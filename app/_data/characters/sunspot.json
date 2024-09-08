@@ -1,0 +1,20 @@
+{
+    "id": 179,
+    "name": "Sunspot",
+    "slug": "sunspot",
+    "description": "",
+    "set": "CP153 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp153-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2024"
+            }
+        ]
+    }
+}

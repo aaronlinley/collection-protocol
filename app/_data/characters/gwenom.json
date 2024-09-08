@@ -1,0 +1,20 @@
+{
+    "id": 169,
+    "name": "Gwenom",
+    "slug": "gwenom",
+    "description": "",
+    "set": "CP155 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp155-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2024"
+            }
+        ]
+    }
+}

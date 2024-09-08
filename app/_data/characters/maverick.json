@@ -1,0 +1,20 @@
+{
+    "id": 178,
+    "name": "Maverick",
+    "slug": "maverick",
+    "description": "",
+    "set": "CP109 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp109-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2024"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": 170,
+    "name": "Scarlet Spider",
+    "slug": "scarlet-spider",
+    "description": "",
+    "set": "CP155 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp155-3.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2024"
+            }
+        ]
+    }
+}

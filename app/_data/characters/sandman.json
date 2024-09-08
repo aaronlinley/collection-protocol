@@ -1,0 +1,20 @@
+{
+    "id": 172,
+    "name": "Sandman",
+    "slug": "sandman",
+    "description": "",
+    "set": "CP156 | Character Pack",
+    "image": "https://shop.asmodee.com/product/image/large/cp156-2.jpg",
+    "pack": {
+        "info": [
+            {
+                "title": "MSRP",
+                "value": "Unknown"
+            },
+            {
+                "title": "Release",
+                "value": "Q2 2024"
+            }
+        ]
+    }
+}
